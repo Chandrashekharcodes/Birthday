@@ -1077,7 +1077,7 @@ audio {
 
 .balloons {
 	position: fixed;
-	bottom:  100px;
+	bottom:  -200px;
 	opacity: 0.6;
 	z-index: 99;
 	width: 100px;
@@ -1268,7 +1268,7 @@ audio {
 }
 
 .cake-cover {
-	margin-top: 10px;
+	margin-top: 5px;
 }
 .message {
 	margin-top: 20px;
